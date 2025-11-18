@@ -96,6 +96,6 @@ tp_mvc25/
 │   ├── layout/             # Template (Navbar, Header, Footer)
 │   ├── lecturer/           # View CRUD Dosen
 │   └── course/             # View CRUD Mata Kuliah
-├── db_mvc25.sql            # File Dump Database
+├── db_mvc25.sql            # File Database
 ├── index.php               # Router Utama
 └── README.md               # Dokumentasi Proyek
