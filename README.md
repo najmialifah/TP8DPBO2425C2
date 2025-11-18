@@ -74,6 +74,9 @@ Aplikasi menggunakan konsep **Single Entry Point**, di mana semua *request* dari
     * Komponen UI modern: *Rounded cards*, *soft shadows*, dan tipografi *Poppins*.
     * Responsif di perangkat mobile (menggunakan Grid Bootstrap).
 
+## Dokumentasi Screen Record
+https://youtu.be/weR-hMjKr7A
+
 ### Struktur Direktori
 ```text
 tp_mvc25/
@@ -96,6 +99,3 @@ tp_mvc25/
 ├── db_mvc25.sql            # File Dump Database
 ├── index.php               # Router Utama
 └── README.md               # Dokumentasi Proyek
-
-## Dokumentasi Screen Record
-https://youtu.be/weR-hMjKr7A
