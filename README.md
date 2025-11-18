@@ -8,7 +8,7 @@ Saya **Najmi Alifah Hilmiya** dengan **NIM 2410393** mengerjakan **Tugas Praktik
 
 Aplikasi ini menonjolkan antarmuka pengguna (*User Interface*) yang **Aesthetic** dengan tema *Soft Pink*, memberikan pengalaman pengelolaan data Dosen dan Mata Kuliah yang bersih, modern, dan menyenangkan.
 
-## Preview Aplikasi
+## Preview
 
 <img width="1919" height="865" alt="image" src="https://github.com/user-attachments/assets/a77bd705-893e-4c20-b2a1-ffb7dbc7f675" />
 <img width="1919" height="863" alt="image" src="https://github.com/user-attachments/assets/ae83121d-0541-4278-be9c-9bcc2468ded6" />
@@ -35,7 +35,7 @@ Bertindak sebagai penghubung logika antara Model dan View.
 
 ---
 
-## 🔄 Penjelasan Alur Program (System Flow)
+## Penjelasan Alur Program (System Flow)
 
 Aplikasi menggunakan konsep **Single Entry Point**, di mana semua *request* dari pengguna masuk melalui satu file utama.
 
